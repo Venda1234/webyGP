@@ -1,7 +1,23 @@
 h1{
-    color: blue;
+    color: #191970;
 }
 
 #id1{
-    background-color: red;
+    background-color: #888;
+}
+
+.class1{
+    background-color: #1488;
+}
+
+a{
+    background-color:  #629;;
+}
+
+.class2.class3{
+    background-color: #515;
+}
+
+.class2.class3 p{
+    background-color: #199619;
 }
