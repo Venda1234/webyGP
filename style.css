@@ -21,3 +21,35 @@ a{
 .class2.class3 p{
     background-color: #199619;
 }
+
+.class6{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-right: 150px;
+    padding-left: 480px;
+
+    margin-top: 200px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    margin-right: 40px;
+}
+
+.class3{
+    margin: 100px 100px 100px 200px;
+}
+
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: blue;
+}
+
+a:hover{
+    color: green;
+}
+
+a:active{
+    color: hotpink;
+}
