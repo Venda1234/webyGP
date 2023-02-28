@@ -88,3 +88,10 @@ li{
     overflow: hidden; /*co se stane s textem, když se nevejde do elementu*/
     font-size: 15px; /*velikost písma*/
 }
+
+.box{
+    background: #199619 ;
+    border: 5px solid black;
+    width: 20%;/*šířka v procentech velikosti monitorů*/
+    float: right; /*hodi elementy do leva nebo do prava, ale přehodí pozadí*/
+}
