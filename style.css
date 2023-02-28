@@ -83,4 +83,8 @@ li{
 
 .spodni{
     background-color: antiquewhite;
+    width: 200px;
+    height: 100px;
+    overflow: scroll; /*co se stane s textem, když se nevejde do elementu*/
+    font-size: 15px; /*velikost písma*/
 }
