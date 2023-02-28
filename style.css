@@ -53,3 +53,7 @@ a:hover{
 a:active{
     color: hotpink; /*když odkaz zmáčknu*/
 }
+
+a{
+    text-decoration: none;
+}
